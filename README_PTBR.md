@@ -23,6 +23,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **3º** Escreva uma função que receba dois valores, A e B como argumentos. Se A for menor que B, dívida A por B do contrário multiplique os números e retorne o resultado. 
 
+**4º** Escreva uma função que receba um valor como argumento. Se o valor for  inteiro (não tendo casa decimal), então etorne true, do contrário retorne false.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**

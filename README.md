@@ -23,6 +23,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **3º** Write a function that takes two values, A and B as arguments. If A is smaller than B, divide A by B. Otherwise, multiply both numbers and return the result.
 
+**4º** Write a function that takes a value as an argument. If the value is an integer (has no decimal place), return true, otherwise, return false.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
