@@ -19,6 +19,8 @@ where I am going to explaining certain points of the JavaScript language.
 # :clipboard: List
 **1º** Write a function that takes two values, A and B as arguments. Return true if the values are the same and the same type.
 
+**1º** Write a function that takes a number as an argument. If the number is even, return true if not false.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
