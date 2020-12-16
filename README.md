@@ -25,6 +25,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **4º** Write a function that takes a value as an argument. If the value is an integer (has no decimal place), return true, otherwise, return false.
 
+**5º** Write a function that takes two strings, A and B as arguments. If A contains B, concatenate B at the beginning of A, if not, concatenate B at the end of A. Finally, return to the concatenation.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
