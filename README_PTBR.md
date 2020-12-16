@@ -19,8 +19,9 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 # :clipboard: Lista
 **1º** Escreva uma funcao que receba dois valores, A e B como argumentos. Retorne true se os valores forem iguais e do mesmo tipo.
 
-**1º** Escreva uma funcao que receba um numero como argumento. Se o numero for par retorne true se nao retorne false.
+**2º** Escreva uma função que receba um número como argumento. Se o número for par retorne true, se não retorne false. 
 
+**3º** Escreva uma função que receba dois valores, A e B como argumentos. Se A for menor que B, dívida A por B do contrário multiplique os números e retorne o resultado. 
 
 # :hammer_and_wrench: Instalação
 

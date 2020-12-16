@@ -19,7 +19,9 @@ where I am going to explaining certain points of the JavaScript language.
 # :clipboard: List
 **1º** Write a function that takes two values, A and B as arguments. Return true if the values are the same and the same type.
 
-**1º** Write a function that takes a number as an argument. If the number is even, return true if not false.
+**2º** Write a function that takes a number as an argument. If the number is even, return true if not false.
+
+**3º** Write a function that takes two values, A and B as arguments. If A is smaller than B, divide A by B. Otherwise, multiply both numbers and return the result.
 
 # :hammer_and_wrench: Installation
 
