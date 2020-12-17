@@ -27,6 +27,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **5º** Write a function that takes two strings, A and B as arguments. If A contains B, concatenate B at the beginning of A, if not, concatenate B at the end of A. Finally, return to the concatenation.
 
+**6º** Write a function that takes an object with the properties number and percentage as an argument, return the given percentage of the number.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

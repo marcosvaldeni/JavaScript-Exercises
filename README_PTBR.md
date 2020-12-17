@@ -25,7 +25,9 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **4º** Escreva uma função que receba um valor como argumento. Se o valor for  inteiro (não tendo casa decimal), então etorne true, do contrário retorne false.
 
-**4º** Escreva uma função que receba duas strings, A e B como argumentos. Se A conter B concatene B no início de A, se não concatene B no fim de A. Por fim retorne à concatenação.
+**5º** Escreva uma função que receba duas strings, A e B como argumentos. Se A conter B concatene B no início de A, se não concatene B no fim de A. Por fim retorne à concatenação.
+
+**6º** Escreva uma função que receba um objeto, neste objeto esteja definido duas propriedades ‘porcentagem’ e ‘number’. Por fim, retorne um percentual referente a esses valores.
 
 # :hammer_and_wrench: Instalação
 
