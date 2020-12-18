@@ -29,6 +29,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **6º** Escreva uma função que receba um objeto, neste objeto esteja definido duas propriedades ‘porcentagem’ e ‘number’. Por fim, retorne um percentual referente a esses valores.
 
+**7º** Escreva uma função que receba dois numeros como argumetos, X e Y. Verifique se X é divisível por Y, se sim, retorna X. Do contrário, retorne o próximo número natural divisível por Y.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**

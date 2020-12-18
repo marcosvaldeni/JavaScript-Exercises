@@ -29,6 +29,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **6º** Write a function that takes an object with the properties number and percentage as an argument, return the given percentage of the number.
 
+**7º** Write a function that takes two numbers as arguments, X and Y. Check if X is divisible by Y, if yes, returns X. Otherwise, return the next natural number divisible by Y.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
