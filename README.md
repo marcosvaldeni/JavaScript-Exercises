@@ -31,6 +31,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **7º** Write a function that takes two numbers as arguments, X and Y. Check if X is divisible by Y, if yes, returns X. Otherwise, return the next natural number divisible by Y.
 
+**8º** Write a function that takes a number as an argument, that function must separate the characters from the number into elements and return an array of numbers.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

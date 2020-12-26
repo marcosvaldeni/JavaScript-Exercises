@@ -31,6 +31,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **7º** Escreva uma função que receba dois numeros como argumetos, X e Y. Verifique se X é divisível por Y, se sim, retorna X. Do contrário, retorne o próximo número natural divisível por Y.
 
+**8º** Escreva uma função que receba um número como argumento, essa função deve separar os caracteres do número em elementos e retornar um array de números.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
