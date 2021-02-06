@@ -33,6 +33,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **8º** Write a function that takes a number as an argument, that function must separate the characters from the number into elements and return an array of numbers.
 
+**9º** Write a function that takes a string as an argument, that function must replace each letter of the string with the next in the alphabet and return the new word.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

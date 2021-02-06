@@ -33,6 +33,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **8º** Escreva uma função que receba um número como argumento, essa função deve separar os caracteres do número em elementos e retornar um array de números.
 
+**9º** Escreva uma função que receba uma string como argumento, essa função deve trocar cada letra da string pela próxima no alfabeto e retornar a nova palavra.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
