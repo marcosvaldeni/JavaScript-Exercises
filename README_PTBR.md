@@ -35,6 +35,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **9º** Escreva uma função que receba uma string como argumento, essa função deve trocar cada letra da string pela próxima no alfabeto e retornar a nova palavra.
 
+**10º** Escreva uma função que receba duas strings como argumentos, essa função deve concatenar o que foi recebido, limpar os caracteres estranhos (%) e retornar uma palavra com a primeira letra maiúscula. 
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
