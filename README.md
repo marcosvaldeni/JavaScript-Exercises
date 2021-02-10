@@ -37,6 +37,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **10º** Write a function that takes two strings as arguments, that function must concatenate what was received, clean up the strange characters (removes the %) and return a word with the first letter capitalized.
 
+**11º** Write a function that takes a number as an argument, that function should return this number rounded to two digits after the comma.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

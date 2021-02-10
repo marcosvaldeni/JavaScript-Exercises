@@ -37,6 +37,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **10º** Escreva uma função que receba duas strings como argumentos, essa função deve concatenar o que foi recebido, limpar os caracteres estranhos (%) e retornar uma palavra com a primeira letra maiúscula. 
 
+**11º** Escreva uma função que receba um número como argumento, essa função deve retornar este número arredondado para dois dígitos após a vírgula.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
