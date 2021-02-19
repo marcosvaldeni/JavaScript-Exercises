@@ -39,6 +39,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **11º** Escreva uma função que receba um número como argumento, essa função deve retornar este número arredondado para dois dígitos após a vírgula.
 
+**12º** Escreva uma função para encontrar a área de um triângulo. Esta função deve receber três valores numéricos, cada valor representa um dos lados do triângulo.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**

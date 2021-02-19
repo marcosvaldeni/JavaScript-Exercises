@@ -39,6 +39,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **11º** Write a function that takes a number as an argument, that function should return this number rounded to two digits after the comma.
 
+**12º** Write a function to find the area of a triangle. This function must receive three numerical values, each value represents one side of the triangle.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
