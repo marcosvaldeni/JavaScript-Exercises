@@ -41,6 +41,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **12º** Write a function to find the area of a triangle. This function must receive three numerical values, each value represents one side of the triangle.
 
+**13º** Write a function that takes a number as an argument and returns it's factorials.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

@@ -41,6 +41,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **12º** Escreva uma função para encontrar a área de um triângulo. Esta função deve receber três valores numéricos, cada valor representa um dos lados do triângulo.
 
+**13º** Escreva uma função que receba um numero como argumento e retorne o fatorial do mesmo.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
