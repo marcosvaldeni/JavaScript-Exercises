@@ -43,6 +43,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **13º** Write a function that takes a number as an argument and returns it's factorials.
 
+**14º** Write a function that takes a string (name of a file) as an argument, this function should return the file extension without the point.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
