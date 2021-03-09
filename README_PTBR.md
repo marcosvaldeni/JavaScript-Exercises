@@ -43,6 +43,17 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **13º** Escreva uma função que receba um numero como argumento e retorne o fatorial do mesmo.
 
+**14º** Escreva uma função que receba uma string (nome de um aquivo) como argumento, esta função deve retornar a extensão do arquivo sem o ponto.
+
+**15º** Escreva uma função que receba uma string como argumento, esta função deve validar um “username” com as devidas condições: 
+ 
+  1. Deve ter entre 4 a 25 caracteres. 
+  2. Deve começar com uma letra. 
+  3. Só pode conter letras, números e underscores
+  4. Não pode terminar com underscore. 
+  5. Se o “username” for válido, seu programa deve retornar uma string true, 
+  caso contrário, deve retornar uma string false.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**

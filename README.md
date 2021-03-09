@@ -45,6 +45,15 @@ where I am going to explaining certain points of the JavaScript language.
 
 **14º** Write a function that takes a string (name of a file) as an argument, this function should return the file extension without the point.
 
+**15º** Write a function that takes a string as an argument, this function must validate a "username" with the necessary conditions:
+ 
+  1. It must be between 4 and 25 characters long.
+  2. It must start with a letter.
+  3. Can only contain letters, numbers and underscores
+  4. It cannot end with an underscore.
+  5. If the username is valid, your program must return the string 'true'
+  otherwise, it must return the string 'false'.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
