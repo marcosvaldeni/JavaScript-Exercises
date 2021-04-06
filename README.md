@@ -54,6 +54,8 @@ where I am going to explaining certain points of the JavaScript language.
   5. If the username is valid, your program must return the string 'true'
   otherwise, it must return the string 'false'.
 
+**16º** Write a function that takes three numbers as arguments, this function must verify if the last digit of each number is the same.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

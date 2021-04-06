@@ -54,6 +54,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
   5. Se o “username” for válido, seu programa deve retornar uma string true, 
   caso contrário, deve retornar uma string false.
 
+**16º** Escreva uma função que receba três números como argumento, esta função deve verificar se o último digito de cada número é iguai. 
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
