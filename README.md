@@ -56,6 +56,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **16º** Write a function that takes three numbers as arguments, this function must verify if the last digit of each number is the same.
 
+**17º** Write a function that receives a string and rotates its characters, periodically removing a letter from the end and adding it to the beginning. The string must be shown in the browser with the rotation.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

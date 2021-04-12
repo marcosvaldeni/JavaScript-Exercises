@@ -56,6 +56,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **16º** Escreva uma função que receba três números como argumento, esta função deve verificar se o último digito de cada número é iguai. 
 
+**17º** Escreva uma função que receba uma string e rotacione seus caracteres, removendo periodicamente uma letra o final e adicionando ao início. A string devem ser mostrados no navegador com a rotação  
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
