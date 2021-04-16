@@ -58,6 +58,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **17º** Escreva uma função que receba uma string e rotacione seus caracteres, removendo periodicamente uma letra o final e adicionando ao início. A string devem ser mostrados no navegador com a rotação  
 
+**18º** Escreva uma função que calcule e retorne, quantos dias falta para o Natal.
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**

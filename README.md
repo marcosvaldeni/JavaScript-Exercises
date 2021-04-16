@@ -58,6 +58,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **17º** Write a function that receives a string and rotates its characters, periodically removing a letter from the end and adding it to the beginning. The string must be shown in the browser with the rotation.
 
+**18º** Write a function that calculates and returns, how many days until Christmas.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**
