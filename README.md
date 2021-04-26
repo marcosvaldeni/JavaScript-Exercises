@@ -60,6 +60,8 @@ where I am going to explaining certain points of the JavaScript language.
 
 **18º** Write a function that calculates and returns, how many days until Christmas.
 
+**19º** Write a function that receives a string and check if it is a palindrome. As a result, a boolean must be returned.
+
 # :hammer_and_wrench: Installation
 
 **In order to clone the project via HTTPS, run this command:**

@@ -60,6 +60,8 @@ aqui vou mostrar uma lista de exercícios, onde explicarei certos pontos da ling
 
 **18º** Escreva uma função que calcule e retorne, quantos dias falta para o Natal.
 
+**19º** Escreva uma função que receba uma string e verifique se a mesma é um palíndromo. Como resultado, deve retornar um boolean. 
+
 # :hammer_and_wrench: Instalação
 
 **Para clonar o projeto via HTTPS, execute este comando:**
